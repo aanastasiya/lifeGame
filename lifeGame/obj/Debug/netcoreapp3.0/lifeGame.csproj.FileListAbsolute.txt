@@ -1,0 +1,11 @@
+/Users/anastasia/Projects/lifeGame/lifeGame/bin/Debug/netcoreapp3.0/lifeGame
+/Users/anastasia/Projects/lifeGame/lifeGame/bin/Debug/netcoreapp3.0/lifeGame.deps.json
+/Users/anastasia/Projects/lifeGame/lifeGame/bin/Debug/netcoreapp3.0/lifeGame.runtimeconfig.json
+/Users/anastasia/Projects/lifeGame/lifeGame/bin/Debug/netcoreapp3.0/lifeGame.runtimeconfig.dev.json
+/Users/anastasia/Projects/lifeGame/lifeGame/bin/Debug/netcoreapp3.0/lifeGame.dll
+/Users/anastasia/Projects/lifeGame/lifeGame/bin/Debug/netcoreapp3.0/lifeGame.pdb
+/Users/anastasia/Projects/lifeGame/lifeGame/obj/Debug/netcoreapp3.0/lifeGame.csprojAssemblyReference.cache
+/Users/anastasia/Projects/lifeGame/lifeGame/obj/Debug/netcoreapp3.0/lifeGame.AssemblyInfoInputs.cache
+/Users/anastasia/Projects/lifeGame/lifeGame/obj/Debug/netcoreapp3.0/lifeGame.AssemblyInfo.cs
+/Users/anastasia/Projects/lifeGame/lifeGame/obj/Debug/netcoreapp3.0/lifeGame.dll
+/Users/anastasia/Projects/lifeGame/lifeGame/obj/Debug/netcoreapp3.0/lifeGame.pdb
